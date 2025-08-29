@@ -46,24 +46,6 @@ Both models were trained with an 80/20 train-test split.
 - New input data is preprocessed, scaled, and predictions are added as a new column:  
   - `Breast_Cancer_Prediction` → `1 = Malignant`, `0 = Benign`
 
-## Example Results
-
-- **Logistic Regression Accuracy**: ~95%  
-- **Random Forest Accuracy**: ~97%  
-
-Confusion Matrix (Logistic Regression)
-
-```
-[70,  2],
-[ 3, 39]
-```
-
-Random Forest Feature Importance (Top 10):  
-- worst concave points 
-- mean perimeter 
-- mean concave points 
-- ...
-
 ## Files in Repository
 ```breast-cancer.csv``` → dataset
 
