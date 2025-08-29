@@ -65,13 +65,13 @@ Random Forest Feature Importance (Top 10):
 - ...
 
 ## Files in Repository
-breast-cancer.csv → dataset
+```breast-cancer.csv``` → dataset
 
-breast_cancer_rf_model.pkl → saved Random Forest model
+```breast_cancer_rf_model.pkl``` → saved Random Forest model
 
-breast_cancer_scaler.pkl → saved StandardScaler
+```breast_cancer_scaler.pkl``` → saved StandardScaler
 
-breast_cancer_classification.ipynb → Jupyter notebook containing the full code
+```breast_cancer_classification.ipynb``` → Jupyter notebook containing the full code
 
 ## Conclusion
 Random Forest performed slightly better than Logistic Regression.
